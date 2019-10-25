@@ -1,0 +1,21 @@
+C:\Users\halil\Desktop\Desktop Work\Erol Akdogan\Npl.Application\Npl.Resources\bin\Debug\netstandard2.0\Npl.Resources.deps.json
+C:\Users\halil\Desktop\Desktop Work\Erol Akdogan\Npl.Application\Npl.Resources\bin\Debug\netstandard2.0\Npl.Resources.dll
+C:\Users\halil\Desktop\Desktop Work\Erol Akdogan\Npl.Application\Npl.Resources\bin\Debug\netstandard2.0\Npl.Resources.pdb
+C:\Users\halil\Desktop\Desktop Work\Erol Akdogan\Npl.Application\Npl.Resources\obj\Debug\netstandard2.0\Npl.Resources.csprojAssemblyReference.cache
+C:\Users\halil\Desktop\Desktop Work\Erol Akdogan\Npl.Application\Npl.Resources\obj\Debug\netstandard2.0\Npl.Resources.NumbersResources.resources
+C:\Users\halil\Desktop\Desktop Work\Erol Akdogan\Npl.Application\Npl.Resources\obj\Debug\netstandard2.0\Npl.Resources.csproj.GenerateResource.cache
+C:\Users\halil\Desktop\Desktop Work\Erol Akdogan\Npl.Application\Npl.Resources\obj\Debug\netstandard2.0\Npl.Resources.csproj.CoreCompileInputs.cache
+C:\Users\halil\Desktop\Desktop Work\Erol Akdogan\Npl.Application\Npl.Resources\obj\Debug\netstandard2.0\Npl.Resources.AssemblyInfoInputs.cache
+C:\Users\halil\Desktop\Desktop Work\Erol Akdogan\Npl.Application\Npl.Resources\obj\Debug\netstandard2.0\Npl.Resources.AssemblyInfo.cs
+C:\Users\halil\Desktop\Desktop Work\Erol Akdogan\Npl.Application\Npl.Resources\obj\Debug\netstandard2.0\Npl.Resources.dll
+C:\Users\halil\Desktop\Desktop Work\Erol Akdogan\Npl.Application\Npl.Resources\obj\Debug\netstandard2.0\Npl.Resources.pdb
+C:\Users\WebAdmin\source\repos\Npl.Application\Npl.Resources\bin\Debug\netstandard2.0\Npl.Resources.deps.json
+C:\Users\WebAdmin\source\repos\Npl.Application\Npl.Resources\bin\Debug\netstandard2.0\Npl.Resources.dll
+C:\Users\WebAdmin\source\repos\Npl.Application\Npl.Resources\bin\Debug\netstandard2.0\Npl.Resources.pdb
+C:\Users\WebAdmin\source\repos\Npl.Application\Npl.Resources\obj\Debug\netstandard2.0\Npl.Resources.csprojAssemblyReference.cache
+C:\Users\WebAdmin\source\repos\Npl.Application\Npl.Resources\obj\Debug\netstandard2.0\Npl.Resources.NumbersResources.resources
+C:\Users\WebAdmin\source\repos\Npl.Application\Npl.Resources\obj\Debug\netstandard2.0\Npl.Resources.csproj.GenerateResource.cache
+C:\Users\WebAdmin\source\repos\Npl.Application\Npl.Resources\obj\Debug\netstandard2.0\Npl.Resources.AssemblyInfoInputs.cache
+C:\Users\WebAdmin\source\repos\Npl.Application\Npl.Resources\obj\Debug\netstandard2.0\Npl.Resources.AssemblyInfo.cs
+C:\Users\WebAdmin\source\repos\Npl.Application\Npl.Resources\obj\Debug\netstandard2.0\Npl.Resources.dll
+C:\Users\WebAdmin\source\repos\Npl.Application\Npl.Resources\obj\Debug\netstandard2.0\Npl.Resources.pdb
